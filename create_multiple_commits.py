@@ -1,4 +1,4 @@
-import os
+1import os
 import subprocess
 
 # Set the number of commits you want to create
